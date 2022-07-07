@@ -1,0 +1,10 @@
+tr td {
+    border: 1px solid #a2a9b1;
+    padding: 0.2em 0.4em;
+    text-align: center;
+}
+
+.main_num {
+    background-color: #aaa;
+    font-weight: bold;
+}
